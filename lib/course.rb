@@ -8,6 +8,10 @@ end
 
  def initialize(title, schedule, desription)
    @title, @schedule, @desription = title, schedule, desription
+   
+   @@all >> [] 
+   save
+   
  
 end
 end
