@@ -6,5 +6,6 @@ end
 
 @all = []
 
+ def inte
 end
 end
