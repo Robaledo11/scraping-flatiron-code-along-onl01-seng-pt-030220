@@ -6,6 +6,8 @@ end
 
 @all = []
 
- def inte
+ def initialize(title, schedule, desription)
+   @title, @schedule, @desription = title, schedule, desription
+ 
 end
 end
